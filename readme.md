@@ -1,10 +1,10 @@
 ### Wade Glahn coded the areas:
 mockup templete (body background, navbar, and footer) 
-The main page contaner for "Who we are"
+The main page contaner for "What we do"
 Supporting CSS lines 2-50.
 
 ### Kristen Nakamoto coded the areas:
-The main page contaner for "What we do"
+The main page contaner for "What we are"
 supporting CSS lines 54-64.
 
 ### Chelsey Martinez coded the areas:
